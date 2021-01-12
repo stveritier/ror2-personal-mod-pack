@@ -1,5 +1,14 @@
 RoR2 Modpack
 
+// Mods incluidos
+  -[BepInEx](https://thunderstore.io/package/bbepis/BepInExPack/)
+  -[R2API](https://thunderstore.io/package/tristanmcpherson/R2API/)
+  -[MiniRpcLib](https://thunderstore.io/package/wildbook/MiniRpcLib/)
+  -[PreventPickup](https://thunderstore.io/package/Vl4dimyr/PreventPickup/)
+  -[BiggerBazaar](https://thunderstore.io/package/MagnusMagnuson/BiggerBazaar/)
+  -[Raincoat](https://thunderstore.io/package/Jarlyk/Raincoat/)
+
+
 // Instrucciones
   1. Clickear el botón verde de arriba a la derecha.
   2. Seleccionar la opción 'Descargar ZIP'.
