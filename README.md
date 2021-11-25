@@ -4,7 +4,7 @@
  * [BepInEx](https://thunderstore.io/package/bbepis/BepInExPack/)
  * [R2API](https://thunderstore.io/package/tristanmcpherson/R2API/)
  * [MiniRpcLib](https://thunderstore.io/package/wildbook/MiniRpcLib/)
- * [PreventPickup](https://thunderstore.io/package/Vl4dimyr/PreventPickup/)
+ * [HookGenPatcher](https://thunderstore.io/package/RiskofThunder/HookGenPatcher/)
  * [BiggerBazaar](https://thunderstore.io/package/MagnusMagnuson/BiggerBazaar/)
  * [Raincoat](https://thunderstore.io/package/Jarlyk/Raincoat/)
 
