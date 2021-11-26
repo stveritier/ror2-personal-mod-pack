@@ -6,8 +6,6 @@
  * [MiniRpcLib](https://thunderstore.io/package/wildbook/MiniRpcLib/)
  * [HookGenPatcher](https://thunderstore.io/package/RiskofThunder/HookGenPatcher/)
  * [BiggerBazaar](https://thunderstore.io/package/MagnusMagnuson/BiggerBazaar/)
- * [Raincoat](https://thunderstore.io/package/Jarlyk/Raincoat/)
-
 
 ## Instrucciones
   1. Clickear el botón verde de arriba a la derecha.
